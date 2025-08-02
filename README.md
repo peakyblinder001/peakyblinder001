@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peakyblinder001
+- 👋 Hi, I’m G
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a tech startup
